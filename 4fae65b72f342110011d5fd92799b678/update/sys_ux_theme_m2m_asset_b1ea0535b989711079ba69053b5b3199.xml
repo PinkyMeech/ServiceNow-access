@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_m2m_asset">
+    <sys_ux_theme_m2m_asset action="INSERT_OR_UPDATE">
+        <asset display_value="now-logo-dark">71ea05359089711009bc7e64b1811499</asset>
+        <properties>{&#13;
+"position": "header_logo"&#13;
+}</properties>
+        <sys_class_name>sys_ux_theme_m2m_asset</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-03 17:16:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b1ea0535b989711079ba69053b5b3199</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Unique Hands-On Professional Services" source="x_887813_unique_0">4fae65b72f342110011d5fd92799b678</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unique Hands-On Professional Services">4fae65b72f342110011d5fd92799b678</sys_scope>
+        <sys_update_name>sys_ux_theme_m2m_asset_b1ea0535b989711079ba69053b5b3199</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-03 17:16:00</sys_updated_on>
+        <theme display_value="Light Theme">39ea0535bc89711008fb8ab07d9701ab</theme>
+    </sys_ux_theme_m2m_asset>
+</record_update>

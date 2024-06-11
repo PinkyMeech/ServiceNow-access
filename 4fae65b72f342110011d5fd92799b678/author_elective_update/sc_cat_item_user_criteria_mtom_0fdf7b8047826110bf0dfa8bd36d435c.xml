@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Unique Hands-On Professional Services">17e34e2647792110bf0dfa8bd36d43f7</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-02 16:48:49</sys_created_on>
+        <sys_id>0fdf7b8047826110bf0dfa8bd36d435c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Unique Hands-On Professional Services.New Hire Employees</sys_name>
+        <sys_package display_value="Unique Hands-On Professional Services" source="x_887813_unique_0">4fae65b72f342110011d5fd92799b678</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unique Hands-On Professional Services">4fae65b72f342110011d5fd92799b678</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_0fdf7b8047826110bf0dfa8bd36d435c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-02 16:48:49</sys_updated_on>
+        <user_criteria display_value="New Hire Employees">4e75dbcf53900010069addeeff7b12b6</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Unique Hands-On Professional Services">4fae65b72f342110011d5fd92799b678</application>
+        <file_path/>
+        <instance_id>2bd0676cdbc2df080e785d00cf961934</instance_id>
+        <instance_name>dev58892</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_0fdf7b8047826110bf0dfa8bd36d435c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Unique Hands-On Professional Services">17e34e2647792110bf0dfa8bd36d43f7</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-02 16:48:49</sys_created_on><sys_id>0fdf7b8047826110bf0dfa8bd36d435c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Unique Hands-On Professional Services.New Hire Employees</sys_name><sys_package display_value="Unique Hands-On Professional Services" source="x_887813_unique_0">4fae65b72f342110011d5fd92799b678</sys_package><sys_policy/><sys_scope display_value="Unique Hands-On Professional Services">4fae65b72f342110011d5fd92799b678</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_0fdf7b8047826110bf0dfa8bd36d435c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-02 16:48:49</sys_updated_on><user_criteria display_value="New Hire Employees">4e75dbcf53900010069addeeff7b12b6</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>1703348848</payload_hash>
+        <record_name>Unique Hands-On Professional Services.New Hire Employees</record_name>
+        <reverted_from/>
+        <source>47ae65b72f342110011d5fd92799b67b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-02 16:48:49</sys_created_on>
+        <sys_id>c7df7b8047826110bf0dfa8bd36d4361</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18742df17df0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-02 16:48:49</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>4fdf7b80d88261105fd20655f6c5b060</update_guid>
+        <update_guid_history>4fdf7b80d88261105fd20655f6c5b060:1703348848</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Unique Hands-On Professional Services.New Hire Employees">a7000c9047826110bf0dfa8bd36d43e7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-02 16:49:40</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>19ab56df6a9940158322fea52363ea29</sys_id>
+        <sys_metadata>0fdf7b8047826110bf0dfa8bd36d435c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Unique Hands-On Professional Services.New Hire Employees</sys_name>
+        <sys_package display_value="Unique Hands-On Professional Services" source="x_887813_unique_0">4fae65b72f342110011d5fd92799b678</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Unique Hands-On Professional Services">4fae65b72f342110011d5fd92799b678</sys_scope>
+        <sys_scope_delete display_value="">a05eae1ffc714d60ae0e6f58d170cb90</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_0fdf7b8047826110bf0dfa8bd36d435c</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_0fdf7b8047826110bf0dfa8bd36d435c">c7df7b8047826110bf0dfa8bd36d4361</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-02 16:49:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

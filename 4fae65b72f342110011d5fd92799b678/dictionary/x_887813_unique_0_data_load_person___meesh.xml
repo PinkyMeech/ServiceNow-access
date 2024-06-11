@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="26d467eb2f096110011d5fd92799b6e4" extends="sys_import_set_row" label="DATA LOAD PERSON - MEESH" max_length="40" name="x_887813_unique_0_data_load_person___meesh" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Company" label="Company" max_length="40" name="u_company" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Department" label="Department" max_length="40" name="u_department" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Email Address" label="Email Address" max_length="40" name="u_email_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Employee Number" label="Employee Number" max_length="40" name="u_employee_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=First Name" label="First Name" max_length="40" name="u_first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Last Name" label="Last Name" max_length="40" name="u_last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Manager" label="Manager" max_length="40" name="u_manager" type="string"/>
+    </element>
+</database>

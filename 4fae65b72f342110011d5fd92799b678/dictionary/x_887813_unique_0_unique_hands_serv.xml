@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b7ef316247792110bf0dfa8bd36d43fb" extends="x_887813_mlm_pin_0_pink_support_services" label="Unique_Hands_Serv" max_length="40" name="x_887813_unique_0_unique_hands_serv" text_index="true" type="collection"/>
+</database>

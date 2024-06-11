@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="kb_knowledge">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>short_description,author.avatar,author.name,description,sys_view_count,rating</field_list>
+        <name>Popular articles predicate</name>
+        <order/>
+        <predicate_bundle display_value="Popular articles bundle">31ea05358b8971109082c559f82d269f</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-03 17:15:59</sys_created_on>
+        <sys_id>7dea053582897110fda8dbacaf9bdd9d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Popular articles predicate</sys_name>
+        <sys_package display_value="Unique Hands-On Professional Services" source="x_887813_unique_0">4fae65b72f342110011d5fd92799b678</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unique Hands-On Professional Services">4fae65b72f342110011d5fd92799b678</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_7dea053582897110fda8dbacaf9bdd9d</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-03 17:15:59</sys_updated_on>
+        <table>kb_knowledge</table>
+        <ux_template display_value="Popular articles template">35ea05354f897110646c42a21a23049e</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

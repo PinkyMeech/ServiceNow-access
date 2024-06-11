@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>400</order>
+        <published_ref/>
+        <question display_value="Rate of Pay:">3698bb8847026110bf0dfa8bd36d43fc</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-02 16:31:29</sys_created_on>
+        <sys_id>c9ebfb8c47426110bf0dfa8bd36d4376</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Handy Person: £25 Per Hour</sys_name>
+        <sys_package display_value="Unique Hands-On Professional Services" source="x_887813_unique_0">4fae65b72f342110011d5fd92799b678</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unique Hands-On Professional Services">4fae65b72f342110011d5fd92799b678</sys_scope>
+        <sys_update_name>question_choice_c9ebfb8c47426110bf0dfa8bd36d4376</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-02 16:31:29</sys_updated_on>
+        <text>Handy Person: £25 Per Hour</text>
+        <value>handy_person_25_per_hour</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=c9ebfb8c47426110bf0dfa8bd36d4376"/>
+</record_update>

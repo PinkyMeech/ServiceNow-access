@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability display_value="Public">b5ea053530897110f2eda9f10b4e83ab</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-03 17:15:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bdea05352989711050aaccc8d6ea04ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Unique Hands-On Professional Services" source="x_887813_unique_0">4fae65b72f342110011d5fd92799b678</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unique Hands-On Professional Services">4fae65b72f342110011d5fd92799b678</sys_scope>
+        <sys_update_name>m2m_app_config_theme_bdea05352989711050aaccc8d6ea04ab</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-03 17:15:58</sys_updated_on>
+        <theme display_value="Light Theme">39ea0535bc89711008fb8ab07d9701ab</theme>
+        <ux_app_configuration display_value="Unique Hands-On Professional Services Config">f5ea0535978971101214fc9fe153af7c</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>
